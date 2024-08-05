@@ -40,4 +40,8 @@
    npm start
    ```
    - The frontend will be available at http://localhost:3000
-   ```
+  
+2. ### Backend Setup
+
+   - Run sprint boot application after setting up DB credentials in application.properties.
+   - Default port will be http://localhost:8080
